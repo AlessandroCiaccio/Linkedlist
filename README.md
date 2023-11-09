@@ -1,5 +1,5 @@
 # Linkedlist
-Creare una classe Fruit che accenti nel costruttore il parametro name (String)
+Creare una classe Fruit che accetti nel costruttore il parametro name (String)
 
 In questa classe avere i metodi pubblici per ottenere le informazioni.
 
